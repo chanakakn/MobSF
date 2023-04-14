@@ -5,13 +5,9 @@
 
  Licence: GPL 3
 
- Available on GitHub
+ Available on GitHub: https://github.com/MobSF/Mobile-Security-Framework-MobSF
 
- https://github.com/MobSF/Mobile-Security-Framework-MobSF
-
- Online analyzer
-
- https://mobsf.live/
+ Online analyzer: https://mobsf.live/
 
 Step 1:
 
