@@ -9,6 +9,9 @@
 
  Online analyzer: https://mobsf.live/
 
+![image](https://user-images.githubusercontent.com/129164792/232052032-18e20628-e4ce-419b-a1f6-c0d402236842.png)
+
+
 Step 1:
 
 sudo docker run -it --rm -e MOBSF_API_KEY=4b869c0b5fef83e8d7205f0fe68d50e1a7a59bbce5c3d7da157d2c3fd8cce8fc -p 8000:8000 opensecurity/mobile-security-framework-mobsf:latest
